@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+venv310/
+build/
+dist/
+*.egg-info/
+
+# YOLOv8 rác & kết quả train
+runs/
+*.log
+
+# OS rác
+.DS_Store
+Thumbs.db
