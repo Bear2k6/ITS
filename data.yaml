@@ -1,4 +1,4 @@
-path: D:/WordSpace/Priority-Vehicles.v1i.yolov8 (1)/Priority-Vehicles.v1i.yolov8
+path: D:/WordSpace/Priority-Vehicles.v1i.yolov8/Priority-Vehicles.v1i.yolov8
 
 train: train/images
 val: valid/images
